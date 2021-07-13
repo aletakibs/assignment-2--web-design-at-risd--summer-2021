@@ -43,6 +43,8 @@ button{
   font-size: 40px;
   background-color: #383838;
   font-family:"Abolition";
+  margin-top: 25px;
+  margin-bottom: 50px;
 }
 html {
   background-image: url(../img/6.png);
