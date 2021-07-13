@@ -49,6 +49,8 @@ button{
 
 .song-names {
   background-color: white;
+  margin-left: 30%;
+  margin-right: 30%;
   font-family:"Abolition";
   font-size: 30px;
 }
