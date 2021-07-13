@@ -16,6 +16,7 @@ h2 {
   font-size: 20px;
 }
 
-.background {
-  background-image: url(../img/background.jpg);
+html {
+  background-image: url(../img/6.png);
+  background-repeat: repeat;
 }
