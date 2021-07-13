@@ -1,9 +1,7 @@
-.background {
-  background-image: url(../img/background.jpg);
-  opacity: .6;
-}
 h1 {
 text-align: center;
 }
 
+.background {
+  background-image: url(../img/background.jpg);
 }
