@@ -14,6 +14,8 @@ h2 {
   letter-spacing: 2px;
   margin-top: inherit;
   margin-bottom: inherit;
+  margin-left: 200px;
+  margin-right: 200px;
   background-color: #500505;
   color: #383838;
 }
