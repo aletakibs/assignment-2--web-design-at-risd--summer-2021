@@ -4,6 +4,10 @@ text-align: center;
 
 h2 {
 text-align: center;
+  text-align: center;
+  font-size: 70px;
+}
+
 .button {
   height: 100px;
   width: 200px;
