@@ -41,6 +41,7 @@ button{
   height: 75px;
   width: 250px;
   font-size: 40px;
+  background-color: #383838;
 }
 html {
   background-image: url(../img/6.png);
