@@ -46,8 +46,10 @@ button{
   margin-top: 25px;
   margin-bottom: 50px;
 }
+
 .song-names {
   background-color: white;
+  font-family:"Abolition";
 }
 html {
   background-image: url(../img/6.png);
