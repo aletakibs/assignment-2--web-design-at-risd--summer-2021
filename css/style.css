@@ -15,6 +15,8 @@ h2 {
   justify-content: center;
 }
 
+button.margin-right{
+  margin-right: 20px;
 }
 
 html {
