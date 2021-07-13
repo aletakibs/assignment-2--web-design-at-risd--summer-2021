@@ -7,6 +7,11 @@ h2 {
   text-align: center;
   font-size: 70px;
 }
+
+h4 {
+  text-align: center;
+}
+
 .flex-parent {
   display: flex;
 }
