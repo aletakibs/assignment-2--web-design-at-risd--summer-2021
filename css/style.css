@@ -49,6 +49,8 @@ button{
   margin-left: 70%;
   font-family:Abolition;
   font-size: 30px;
+  text-align: center;
+  padding: 2px;
 }
 html {
   background-image: url(../img/6.png);
