@@ -50,6 +50,7 @@ button{
 .song-names {
   background-color: white;
   font-family:"Abolition";
+  font-size: 30px;
 }
 html {
   background-image: url(../img/6.png);
