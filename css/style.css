@@ -3,6 +3,8 @@ h1 {
   font-size: 150px;
   font-family: "chopsic";
   color: white;
+  margin-top: inherit;
+  margin-bottom: inherit;
 }
 
 h2 {
