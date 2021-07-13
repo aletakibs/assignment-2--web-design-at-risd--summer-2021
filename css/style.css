@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
   font-size: 200px;
-  font-family: "Abolition"; /*Masqualero Stencil*/
+  font-family: Abolition; /*Masqualero Stencil*/
   color: white;
   margin-top: inherit;
   margin-bottom: inherit;
@@ -42,7 +42,7 @@ button{
   width: 250px;
   font-size: 40px;
   background-color: #383838;
-  font-family:"Abolition";
+  font-family:Abolition;
   margin-top: 25px;
   margin-bottom: 50px;
 }
@@ -51,7 +51,7 @@ button{
   background-color: white;
   margin-left: 30%;
   margin-right: 30%;
-  font-family:"Abolition";
+  font-family:Abolition;
   font-size: 30px;
 }
 html {
