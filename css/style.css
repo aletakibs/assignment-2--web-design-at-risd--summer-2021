@@ -21,10 +21,6 @@ h2 {
   font-family: "Niagara Solid";
 }
 
-h4 {
-  text-align: center;
-}
-
 .flex-parent {
   display: flex;
 }
