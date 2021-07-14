@@ -82,6 +82,7 @@ button{
   font-size: 20px;
   letter-spacing: 0.5px;
   column-count: 2;
+  column-gap: 50px;
 }
 html {
   background-image: url(../img/6.png);
