@@ -87,7 +87,7 @@ button{
   column-rule-width: 5px;
   column-rule-color:#500505;
   text-align: left;
-  position: absolute;
+  position: relative;
 }
 html {
   background-image: url(../img/6.png);
