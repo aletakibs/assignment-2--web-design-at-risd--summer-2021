@@ -81,6 +81,7 @@ button{
   font-family: "Franklin Gothic";
   font-size: 20px;
   letter-spacing: 0.5px;
+  column-count: 2;
 }
 html {
   background-image: url(../img/6.png);
