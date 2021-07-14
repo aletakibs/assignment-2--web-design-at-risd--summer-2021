@@ -71,8 +71,9 @@ button{
 .paragraph {
   margin-top: 1100px;
   background-color: white;
-  margin-left: 150px;
-  margin-right: 150px;
+
+  margin-left: 10%;
+  margin-right: 10%;
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 10px;
