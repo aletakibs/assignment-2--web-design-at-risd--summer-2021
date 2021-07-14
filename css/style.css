@@ -51,6 +51,9 @@ button{
   text-align: center;
   padding: 2px;
 .paragraph {
+  margin-top: 1075px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 html {
   background-image: url(../img/6.png);
