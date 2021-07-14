@@ -57,6 +57,7 @@ button{
   margin-right: 50px;
   margin-bottom: 25px;
   position: relative;
+  clear: both;
 }
 
 .img-1 {
