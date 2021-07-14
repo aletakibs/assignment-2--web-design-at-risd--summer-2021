@@ -54,6 +54,9 @@ button{
   padding-left: 10px;
   padding-right: 10px;
   float: right;
+  margin-right: 50px;
+}
+
 .paragraph {
   margin-top: 1075px;
   background-color: white;
