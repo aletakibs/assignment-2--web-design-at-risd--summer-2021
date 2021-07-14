@@ -55,6 +55,7 @@ button{
   padding-right: 10px;
   float: right;
   margin-right: 50px;
+  position: relative;
 }
 
 .img-1 {
