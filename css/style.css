@@ -105,6 +105,8 @@ h3{
 .img2 {
   text-align: center;
   position: relative;
+  margin-left: 10%;
+  margin-top: -110px;
 }
 html {
   background-image: url(../img/4.png);
