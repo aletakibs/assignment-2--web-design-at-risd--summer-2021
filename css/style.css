@@ -65,6 +65,7 @@ button{
   margin-left: 50px;
   margin-bottom: 25px;
   position: absolute;
+  clear: both;
 }
 
 .paragraph {
