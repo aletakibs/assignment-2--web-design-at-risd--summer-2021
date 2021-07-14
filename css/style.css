@@ -86,6 +86,7 @@ button{
   column-rule-style: solid;
   column-rule-width: 5px;
   column-rule-color:#500505;
+  text-align: left;
 }
 html {
   background-image: url(../img/6.png);
