@@ -90,6 +90,9 @@ button{
   text-indent: 35px;
   position: relative;
 }
+
+h3{
+}
 html {
   background-image: url(../img/6.png);
   background-repeat: repeat;
