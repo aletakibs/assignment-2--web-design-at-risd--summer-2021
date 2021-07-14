@@ -46,7 +46,7 @@ button {
 .song-names {
   background-color: white;
   color: black;
-  font-family:Abolition;
+  font-family: Abolition, sans-serif;
   font-size: 25px;
   text-align: left;
   letter-spacing: 1px;
