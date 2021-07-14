@@ -59,6 +59,10 @@ button{
 
 .img-1 {
   float: left;
+  margin-left: 50px;
+  margin-bottom: 25px;
+}
+
 .paragraph {
   margin-top: 1075px;
   background-color: white;
