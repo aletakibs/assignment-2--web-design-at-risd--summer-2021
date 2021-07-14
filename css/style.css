@@ -79,6 +79,7 @@ button{
   padding-top: 10px;
   padding-bottom: 10px;
   font-family: "Franklin Gothic";
+  font-size: 20px;
 }
 html {
   background-image: url(../img/6.png);
