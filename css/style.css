@@ -53,6 +53,7 @@ button{
   padding: 5px;
   padding-left: 10px;
   padding-right: 10px;
+  float: right;
 .paragraph {
   margin-top: 1075px;
   background-color: white;
