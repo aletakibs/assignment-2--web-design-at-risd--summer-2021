@@ -41,6 +41,8 @@ button {
   font-family: Abolition, sans-serif;
   margin-top: 25px;
   margin-bottom: 50px;
+  padding: 0;
+  border: none;
 }
 
 .song-names {
