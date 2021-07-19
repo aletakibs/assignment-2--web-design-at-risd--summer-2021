@@ -55,7 +55,9 @@ button {
 .song-names {
   background-color: white;
   color: #141414;
-  font-family: Abolition, sans-serif;
+  font-family: abolition, sans-serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 24px;
   text-align: left;
   letter-spacing: 1px;
